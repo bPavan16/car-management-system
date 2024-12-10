@@ -2,6 +2,8 @@
 
 This project is a simple web application for managing cars and staff in a database. It allows users to perform CRUD operations, including adding cars, adding staff, deleting vehicles, updating vehicle prices, and displaying car and staff data.
 
+This project was created as part of the 2nd evaluation for the Web Technologies subject. It demonstrates a web-based Car Management System that performs CRUD operations using Node.js, Express.js, and MySQL.
+
 ## Prerequisites
 
 Before running this project, ensure you have the following installed on your system:
