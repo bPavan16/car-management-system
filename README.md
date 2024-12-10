@@ -159,4 +159,4 @@ Here are some screenshots of the Car Management System in action:
 ![Add Car Page](images/image1.png)
 
 ### Display Page
-![Display Page](images/image3.png)
+![Display Page](images/image2.png)
